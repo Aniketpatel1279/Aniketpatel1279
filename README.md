@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm a Passionate Website Developer!
+# 🚀 Hi, I'm a Aniket kunapara
 
 An experienced Full-Stack Website Developer specializing in crafting high-performance, visually stunning, and user-centric web applications. I bridge the gap between robust backend architecture and pixel-perfect frontend experiences[cite: 1].
 
